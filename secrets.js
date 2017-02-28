@@ -1,0 +1,1 @@
+module.exports.postgres = process.env.DATABASE_URL || 'postgres://yhnavein:123@127.0.0.1/prod';
